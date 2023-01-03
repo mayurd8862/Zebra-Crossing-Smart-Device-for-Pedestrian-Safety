@@ -1,0 +1,6 @@
+Components Required
+1) Esp 32 cam module
+2) PIR sensor
+4) Usb to TTL programmer
+5) Power Bank
+6) Jumper wires
